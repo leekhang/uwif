@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 h1 {
   font-family: hatch, serif;
   font-weight: 700;
@@ -16,7 +20,7 @@ p {
   font-style: normal;
 }
 
-footer {
+.ticker__element {
   font-family: hatch, serif;
   font-weight: 400;
   font-style: italic;
